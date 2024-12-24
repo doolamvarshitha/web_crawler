@@ -1,0 +1,3 @@
+Domain,Product URLs
+example1.com,["https://example1.com/product/123", "https://example1.com/product/124"]
+example2.com,["https://example2.com/item/987", "https://example2.com/product/988"]
